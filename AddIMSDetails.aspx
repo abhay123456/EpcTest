@@ -1,5 +1,5 @@
 <%@ Page Language="C#" Title="Issue Details" AutoEventWireup="true" CodeFile="AddIMSDetails.aspx.cs" EnableEventValidation="false" Inherits="AddIMSDetails" MasterPageFile="~/MasterPage.master" %>
-Raji Kumar patel 3 PM
+
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
 
