@@ -1,6 +1,7 @@
 <%@ Page Language="C#" Title="Issue Details" AutoEventWireup="true" CodeFile="AddIMSDetails.aspx.cs" EnableEventValidation="false" Inherits="AddIMSDetails" MasterPageFile="~/MasterPage.master" %>
 
 Toadys code commited
+Step 2....
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
